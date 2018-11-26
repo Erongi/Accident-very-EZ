@@ -26,7 +26,7 @@ with open('data.csv', encoding='utf-8') as csv_file:
     for _ in range(21):
         cnt1.pop(5), cnt2.pop(5), cnt3.pop(5), cnt4.pop(5), cnt5.pop(5), cnt6.pop(5), cnt7.pop(5), cnt8.pop(5)
     line_chart = pygal.Bar()
-    line_chart.title = 'ผู้เสียชีวิต แต่ละวัน'
+    line_chart.title = 'วันที่เกิดอุบัติเหตุในช่วงเทศกาล'
     line_chart.x_labels = map(str, [1, 2, 3, 4, 5, 27, 28, 29, 30, 31])
     line_chart.add('ปี 2551', cnt1)
     line_chart.add('ปี 2552', cnt2)
