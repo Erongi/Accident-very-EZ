@@ -3,8 +3,8 @@ import pygal
 
 pie_chart = pygal.Line()
 pie_chart.title = 'อายุของผู้เกิดอุบัติเหตุ'
-pie_chart.x_labels = map(str, ["91 - 100", "81 - 90", "71 - 80",\
-    "61 - 70", "51 - 60", "41 - 50", "31 - 40", "21 - 30", "11 - 20", "0 - 10"])
+pie_chart.x_labels = map(str, ["91 - 100 ปี", "81 - 90 ปี", "71 - 80 ปี",\
+    "61 - 70 ปี", "51 - 60 ปี", "41 - 50 ปี", "31 - 40 ปี", "21 - 30 ปี", "11 - 20 ปี", "0 - 10 ปี"])
 for i in range(51, 59):
     with open('data.csv', encoding='utf-8') as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
