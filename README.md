@@ -12,16 +12,23 @@
 ## Information
 
 **Project Site:** https://www.it.kmitl.ac.th/~it61070141/psit1/index%20.html?fbclid=IwAR3B5-KTzs8XM4tythe7Ywvc9xj2RFHVK53Ww17RnOEkdOzS_G3J0-zJLVY
-**Last Updated:** 17/12/2018 
+
+**Last Updated:** 17/12/2018
+
 **Project Status:** work in progress/website
 
 ## Statistics
 
 **Started:** 8/11/2018
+
 **Completed:** -
+
 **Total Days:** -
+
 **Main Language:** Python
+
 **Other Language:** HTML, CSS, JavaScript
+
 
 ## Authors
 * [นาย พัสกร อรุณสดใส 61070141](https://github.com/Erongi)
