@@ -29,7 +29,7 @@
 
 **Main Language:** Python
 
-**Other Language:** HTML, CSS, JavaScript
+**Other Language:** HTML, CSS
 
 
 ## Authors
