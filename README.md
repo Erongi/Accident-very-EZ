@@ -11,7 +11,7 @@
 
 ## Information
 
-**Project Site:** https://www.it.kmitl.ac.th/~it61070141/psit1/index%20.html?fbclid=IwAR3B5-KTzs8XM4tythe7Ywvc9xj2RFHVK53Ww17RnOEkdOzS_G3J0-zJLVY
+**Project Site:** https://www.it.kmitl.ac.th/~it61070141/psit1/index%20.html
 
 **Last Updated:** 17/12/2018
 
