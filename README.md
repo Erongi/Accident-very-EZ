@@ -17,7 +17,7 @@
 
 **Project Status:** Completed
 
-**Youtube link:**https://www.youtube.com/watch?v=SDDIigH51ho&feature=youtu.be
+**Youtube link:** https://www.youtube.com/watch?v=SDDIigH51ho&feature=youtu.be
 
 ## Statistics
 
@@ -25,7 +25,7 @@
 
 **Completed:** 18/12/2018
 
-**Total Days:**40 Days  
+**Total Days:** 40 Days  
 
 **Main Language:** Python
 
